@@ -15,6 +15,6 @@ public class Lecture1Part1RunTimeErrors {
 		
 		double answer = myInt/0;
 		System.out.println("This won't be written : " +answer);
-	}
+	} // end of main method
 
-}
+} // end of class
