@@ -5,7 +5,7 @@ public class Lecture1Part2RunTimeErrors {
 	public static void main(String[] args) {
 	
 		int myArray[] = {12,23,3,4};
-		
+		// try-catch block
 		try {
 		
 		for (int i=0; i<6; i++) {
