@@ -8,7 +8,7 @@ public class Lecture1Part2TryCatchExample2 {
 	public static void main(String[] args) {
 
 		int age = 0;
-		
+		// create a Scanner
 		Scanner scanner = new Scanner(System.in);
 		
 		// get input from user
